@@ -1,0 +1,14 @@
+
+<!DOCTYPE html>
+<html lang="pl-PL">
+<html>
+<head>
+ <meta charset="utf-8">
+ <title> poczta_piorkowski </title>
+ 
+</head>
+<IMG SRC="poczta.jpg" ALIGN=center BORDER=31 WIDTH=300 HEIGHT=300 ALT="poczta">
+<A HREF=".html"> <IMG SRC="rysun.gif">tutaj jest link </A>
+<body>
+ </body>
+</html>
