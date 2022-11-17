@@ -1,0 +1,14 @@
+
+<!DOCTYPE html>
+<html lang="pl-PL">
+<html>
+<head>
+ <meta charset="utf-8">
+ <title> tabela_piorkowski </title>
+ 
+</head>
+<A href ="plik.txt">k&nbsp;l&nbsp;i&nbsp;k&nbsp; Kliknij aby pobrac plik</A>
+<A HREF="index.html"> Powrot </A>
+<body>
+ </body>
+</html>
